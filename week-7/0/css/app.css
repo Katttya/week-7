@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.item {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(196, 231, 154);
+padding-left: 30px;
+position: relative;
+}
+.text{
+  bottom: 50px;
+  position: absolute;
+}
+.header{
+  height: 30px;
+  width: 150px;
+  background-color: rgb(41, 77, 0);
+    margin-bottom: 20px;
+}
+.paragraph {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(148, 193, 96);
+}
